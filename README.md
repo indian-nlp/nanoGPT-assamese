@@ -11,7 +11,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/indian-nlp/nanoGPT-assamese">
-    <img src="https://raw.githubusercontent.com/indian-nlp/nanoGPT-assamese/main/ss/ico.png" alt="Logo" height="50">
+    <img src="https://raw.githubusercontent.com/indian-nlp/nanoGPT-assamese/main/ss/ico.jpg" alt="Logo" height="50">
   </a>
 
 <h3 align="center">NanoGPT Assamese</h3>
